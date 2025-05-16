@@ -1,2 +1,2 @@
 # LM-bioinformatics
-Repository for various bioinformatics exercises done throughout my master's degree.
+Repository for various bioinformatics exercises and projects done throughout my master's degree.
